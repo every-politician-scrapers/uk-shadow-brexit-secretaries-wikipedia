@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "item": {
+      "value": "Q272408",
+      "label": "Emily Thornberry"
+    },
+    "replacedBy": {
+      "value": "Q6383803",
+      "label": "Keir Starmer"
+    },
+    "start": {
+      "value": "2016-07-20T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2016-10-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q272408$CF9D3EBF-F7BF-4852-8FD5-C2DCDD0B60FF"
+  },
+  {
+    "item": {
+      "value": "Q6383803",
+      "label": "Keir Starmer"
+    },
+    "replaces": {
+      "value": "Q272408",
+      "label": "Emily Thornberry"
+    },
+    "start": {
+      "value": "2016-10-06T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2020-04-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6383803$A2D0402F-3C79-4753-B488-AA62E987A013"
+  }
+]
